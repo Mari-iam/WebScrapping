@@ -12,3 +12,4 @@ The project contains two different tasks one scrapes data of all Samsung tablets
 * Pandas
 * NumPy
 * CSV
+* Re
