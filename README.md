@@ -6,8 +6,8 @@ The project contains two different tasks one scrapes data of all Samsung tablets
 1-E-commerce website:https://www.amazon.eg/s?k=samsung&rh=p_89%3Asamsung&language=en&ref=SQEG-WEB-SR301
 2-Entertainment website:https://www.boxofficemojo.com/chart/top_lifetime_gross/?area=XWW
 ## Used Libraries
-### Requests
-### Selenium
-### Pandas
-### NumPy
-### CSV
+* Requests
+* Selenium
+* Pandas
+* NumPy
+* CSV
